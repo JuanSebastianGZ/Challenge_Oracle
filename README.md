@@ -74,7 +74,7 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacer un **fork*
 
 Este proyecto está bajo la licencia **MIT**. Puedes usarlo, modificarlo y compartirlo libremente.  
 
-📧 **Contacto:** Si tienes alguna sugerencia o pregunta, ¡contáctame en [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)! 😊
+📧 **Contacto:** Si tienes alguna sugerencia o pregunta, ¡contáctame en [tuemail@ejemplo.com](cloudingfreeone@gmail.com)! 😊
 
 ---
 
